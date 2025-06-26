@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?lines=Hello+World!;I+love+Open+Source;Coding+is+fun!&center=true&size=22" alt="Typing SVG"/>
 </p>
+
 ## About Me
 - 🔭 I’m currently working on cs
 - 🌱 I’m currently learning nothing
@@ -31,7 +32,7 @@
 
 ## Geek Quote of the Day
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Quote"/>
 </p>
 
 ## GitHub Trophies
